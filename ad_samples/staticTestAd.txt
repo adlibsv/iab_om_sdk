@@ -1,0 +1,7 @@
+<script src="https://adserver.pinger.tech/test-validation-verification-script-v1.js"></script>
+<div>
+    <a href="https://www.iab.com/">
+        <img src="https://adserver.pinger.tech/iab-300x250.jpg">
+    </a>
+</div>
+<img border="0" src="https://adserver.pinger.tech/transparent_pixel.png" alt="" />
