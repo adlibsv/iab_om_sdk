@@ -42,7 +42,7 @@
                     <AdVerifications>
                         <Verification vendor="iabtechlab.com-omid">
                             <JavaScriptResource apiFramework="omid" browserOptional="true">
-                                <![CDATA[ https://adserver.pinger.tech/test-validation-verification-script-v1.js ]]>
+                                <![CDATA[ [ServerNamePlaceholder]/testing/test-validation-verification-script-v1.js ]]>
                             </JavaScriptResource>
                             <TrackingEvents>
                                 <Tracking event="verificationNotExecuted">

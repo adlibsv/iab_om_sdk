@@ -47,7 +47,7 @@
                             <TrackingEvents>
                                 <Tracking event="verificationNotExecuted">
                                     <![CDATA[
-https://adserver.pinger.tech/transparent_pixel.png?error=[REASON]
+[ServerNamePlaceholder]/resources/resources/transparent_pixel.png?error=[REASON]
 ]]>
                                 </Tracking>
                             </TrackingEvents>

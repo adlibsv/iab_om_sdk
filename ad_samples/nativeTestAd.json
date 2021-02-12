@@ -74,7 +74,7 @@
         [
             {
                 "vendorKey":"iabtechlab.com-omid",
-                "javascriptResourceUrl":"https://adserver.pinger.tech/test-validation-verification-script-v1.js",
+                "javascriptResourceUrl":"[ServerNamePlaceholder]/iab/omid-validation-verification-script-v1.js",
                 "verificationParameters":"iabtechlab-pinger"
             }
         ]

@@ -1,7 +1,7 @@
-<script src="https://adserver.pinger.tech/test-validation-verification-script-v1.js"></script>
+<script src="[ServerNamePlaceholder]/testing/test-validation-verification-script-v1.js"></script>
 <div>
     <a href="https://www.iab.com/">
-        <img height="50" width="320" src="https://adserver.pinger.tech/iab-annual-leadership-meeting-2016-3.jpg">
+        <img height="50" width="320" src="[ServerNamePlaceholder]/resources/iab-annual-leadership-meeting-2016-3.jpg">
     </a>
 </div>
-<img border="0" src="https://adserver.pinger.tech/transparent_pixel.png" alt="" />
+<img border="0" src="[ServerNamePlaceholder]/resources/transparent_pixel.png" alt="" />
