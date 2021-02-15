@@ -42,7 +42,7 @@
                     <AdVerifications>
                         <Verification vendor="iabtechlab.com-omid">
                             <JavaScriptResource apiFramework="omid" browserOptional="true">
-                                <![CDATA[ https://s3-us-west-2.amazonaws.com/omsdk-files/compliance-js/omid-validation-verification-script-v1.js ]]>
+                                <![CDATA[ [OmidValidationVerificationPlaceholder] ]]>
                             </JavaScriptResource>
                             <TrackingEvents>
                                 <Tracking event="verificationNotExecuted">
