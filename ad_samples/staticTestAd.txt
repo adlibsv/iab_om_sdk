@@ -1,7 +1,0 @@
-<script src="[ServerNamePlaceholder]/testing/test-validation-verification-script-v1.js"></script>
-<div>
-    <a href="https://www.iab.com/">
-        <img src="[ServerNamePlaceholder]/resources/iab-300x250.jpg">
-    </a>
-</div>
-<img border="0" src="[ServerNamePlaceholder]/resources/transparent_pixel.png" alt="" />
