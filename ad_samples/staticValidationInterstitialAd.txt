@@ -1,0 +1,7 @@
+<script src="[OmidValidationVerificationPlaceholder]"></script>
+<div>
+    <a href="https://www.iab.com/">
+        <img src="[ServerNamePlaceholder]/resources/iab_320x480.jpeg">
+    </a>
+</div>
+<img border="0" src="[ServerNamePlaceholder]/resources/transparent_pixel.png" alt="" />
