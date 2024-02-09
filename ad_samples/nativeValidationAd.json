@@ -27,7 +27,7 @@
                 "img":
                 {
                     "type":3,
-                    "url":"[ServerNamePlaceholder]/resources/iab_320x480.jpg",
+                    "url":"[ServerNamePlaceholder]/resources/iab_320x480.jpeg",
                     "w":320,
                     "h":480
                 }
