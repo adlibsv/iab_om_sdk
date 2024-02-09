@@ -17,9 +17,9 @@
                 "img":
                 {
                     "type":1,
-                    "url":"https://creatives.smaato.com/creatives/native/1456230556037.png",
-                    "w":75,
-                    "h":75
+                    "url":"[ServerNamePlaceholder]/resources/iab-300x250.jpg",
+                    "w":300,
+                    "h":250
                 }
             },
             {
@@ -27,9 +27,9 @@
                 "img":
                 {
                     "type":3,
-                    "url":"https://creatives.smaato.com/creatives/native/1456230566032.jpg",
-                    "w":1200,
-                    "h":627
+                    "url":"[ServerNamePlaceholder]/resources/iab-320x480.jpg",
+                    "w":320,
+                    "h":480
                 }
             },
             {
