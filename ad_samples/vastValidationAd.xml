@@ -20,7 +20,7 @@
                         </VideoClicks>
                         <MediaFiles>
                             <MediaFile height="396" width="600" bitrate="496" type="video/mp4" delivery="progressive">
-                                <![CDATA[https://file-examples.com/storage/fe63e96e0365c0e1e99a842/2017/04/file_example_MP4_480_1_5MG.mp4]]>
+                                <![CDATA[[ServerNamePlaceholder]/resources/VideoSample.mov]]>
                             </MediaFile>
                         </MediaFiles>
                     </Linear>
